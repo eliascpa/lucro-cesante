@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Lucro Cesante",
+  "description": "Una aplicación web para calcular la pérdida de ingresos (lucro cesante) para casos legales o de seguros. Permite configurar salario, edad, incrementos, beneficios, bonos, tasa de descuento y un porcentaje de consumo propio para obtener un cálculo detallado año por año y el valor total de la pérdida.",
+  "requestFramePermissions": []
+}
